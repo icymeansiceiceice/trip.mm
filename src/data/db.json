@@ -3,17 +3,26 @@
         {
             "id": 1,
             "name" : "2 nights in chaung thar",
-            "price" : 2000
+            "price" : 2000,
+            "location" : "myanmar"
         },
         {
             "id": 2,
             "name" : "1 night in kalaw",
-            "price" : 1000
+            "price" : 1000,
+            "location" : "myanmar"
         },
         {
             "id": 3,
             "name" : "3 nights in bagan",
-            "price" : 4000
+            "price" : 4000,
+            "location" : "myanmar"
+        },
+        {
+            "id": 4,
+            "name" : "3 nights in bangkok",
+            "price" : 8000,
+            "location" : "thailand"
         }
     ]
 }
